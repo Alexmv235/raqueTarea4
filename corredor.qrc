@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/corredor">
+        <file>assets/img.png</file>
+    </qresource>
+</RCC>
